@@ -1,1 +1,8 @@
-# funtari-AI
+# Funtari-AI
+<hr>
+
+<b>
+<hr>
+
+## Content
+<hr>
